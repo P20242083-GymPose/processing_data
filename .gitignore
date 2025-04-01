@@ -1,0 +1,4 @@
+#ignore the directory inside MediaPipe folder
+MediaPipe/training_vids/*
+
+MediaPipe/ML_model/squat_model.keras
